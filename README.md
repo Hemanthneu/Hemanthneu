@@ -8,7 +8,7 @@
 I am a Master's in Engineering management | Concentration in Data Science and Big Data | Student from 🏫 Northeastern University, Boston
 
 - 💻 I work on Data Science, Deep Learning & Machine Learning Projects
-- 🕵️‍♂️ Love exploring Reaserach papers
+- 🕵️‍♂️ Love exploring Reaserach papers and Contributing to Open Source Projects
 - 🙋‍♂️Reach me at : LinkedIn [Hemanth Ramesh](https://www.linkedin.com/in/hemanthrm), 📞: 8573905572, 📧: ramesh.he@northeastern.edu
 
 ## 🛠️My Skills 🔧
