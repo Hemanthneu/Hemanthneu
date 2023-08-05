@@ -5,7 +5,7 @@
 
 ## ✍️ ABOUT ME 💼
 
-I am a Master's in Engineering management | Concentration in Data Science and Big Data | Student from 🏫 Northeastern University, Boston
+I am a Master's in Data Analytics | Concentration in Data Science and Big Data | Student from 🏫 Northeastern University, Boston
 
 - 💻 I work on Data Science, Deep Learning & Machine Learning Projects
 - 🕵️‍♂️ Love exploring Reaserach papers and Contributing to Open Source Projects
