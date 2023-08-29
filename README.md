@@ -14,6 +14,7 @@ I am a Master's in Data Analytics | Concentration in Data Science and Big Data |
 ## 🛠️My Skills 🔧
 
 "If we have data, let’s look at data. If all we have are opinions, let’s go with mine.” – Jim Barksdale
+
 👋 Hello! I'm passionate about leveraging data to drive impactful insights and solutions. My expertise spans across various technical domains, making me a versatile data professional ready to take on complex challenges.
 
 🔬 My core strengths include Statistical Modeling and Machine Learning Algorithms, where I excel in utilizing Python, R, and SQL to uncover hidden patterns and make data-driven decisions. I've honed my skills in crafting predictive and prescriptive models that provide actionable insights.
