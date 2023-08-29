@@ -14,16 +14,19 @@ I am a Master's in Data Analytics | Concentration in Data Science and Big Data |
 ## 🛠️My Skills 🔧
 
 "If we have data, let’s look at data. If all we have are opinions, let’s go with mine.” – Jim Barksdale
-I enjoy working on products, and infrastructure that drives customer value and I get excited about opportunities where I get to turn data into visuals that in turn can be digested by small and large business owners alike
-Actively looking for Summer Internships/ Co-Ops in 2023.
+👋 Hello! I'm passionate about leveraging data to drive impactful insights and solutions. My expertise spans across various technical domains, making me a versatile data professional ready to take on complex challenges.
 
-My current domains are:
+🔬 My core strengths include Statistical Modeling and Machine Learning Algorithms, where I excel in utilizing Python, R, and SQL to uncover hidden patterns and make data-driven decisions. I've honed my skills in crafting predictive and prescriptive models that provide actionable insights.
 
-- Statistical modeling and machine learning algorithms (Python, R, SQL)
-- Cloud architectures (AWS, Google Cloud Platform)
-- Deep learning and Machine Learning modeling (Tensorflow, PyTorch)
-I'm passionate about the challenges around scalability, reliability, performance, and fostering teamwork.
-Reach out to me on ramesh.he@northeastern.edu or rhemanth818@gmail.com
+☁️ When it comes to Cloud Architectures, my proficiency in AWS allows me to design robust and scalable solutions, ensuring optimal performance and resource management.
+
+🌐 As a firm believer in the power of Natural Language Processing (NLP) and Large Language Models (LLMs), I've dived into the intricacies of language understanding, enabling me to create innovative applications and tools that bridge the gap between human and machine communication.
+
+🚀 My expertise also extends to the realm of Deep Learning, specifically using TensorFlow and PyTorch. I've explored cutting-edge techniques to tackle complex tasks, from image recognition to natural language understanding, all while optimizing models for efficiency and accuracy.
+
+🤝 Collaboration and effective teamwork are at the heart of my approach. I'm driven by challenges related to scalability, reliability, and performance, and I believe that these aspects are essential for achieving sustainable and impactful solutions.
+
+📩 I'm always open to connecting with fellow enthusiasts, recruiters, and professionals in the data science and machine learning space. Feel free to reach out to me at ramesh.he@northeastern.edu or rhemanth818@gmail.com. Let's collaborate and drive innovation together!
 <div> 
    <img src= "https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="PYTHON" alt="PYTHON" width="50" height="50"/>&nbsp;
    <img src= "https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="50" height="50"/>&nbsp;
