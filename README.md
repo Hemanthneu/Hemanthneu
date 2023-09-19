@@ -7,15 +7,13 @@
 
 I am a Master's in Data Analytics | Concentration in Data Science and Big Data | Student from 🏫 Northeastern University, Boston
 
-- 💻 I work on Data Science, Deep Learning & Machine Learning Projects
-- 🕵️‍♂️ Love exploring Reaserach papers and Contributing to Open Source Projects
+- I bring a track record of driving results as a dynamic Data Analyst and accomplished Machine Learning Intern. My expertise lies in constructing robust predictive models, dissecting extensive datasets, and effectively communicating with stakeholders. I have consistently demonstrated the ability to optimize complex business challenges, delivering tangible impact and providing crucial insights for decision-making. Proficient in Python, SQL, and Tableau, I excel in leveraging cutting-edge techniques in Machine Learning, Natural Language Processing (NLP), and Deep Learning to extract valuable insights and drive innovation
 - 🙋‍♂️Reach me at : LinkedIn [Hemanth Ramesh](https://www.linkedin.com/in/hemanthrm), 📞: 8573905572, 📧: ramesh.he@northeastern.edu
 
 ## 🛠️My Skills 🔧
 
 "If we have data, let’s look at data. If all we have are opinions, let’s go with mine.” – Jim Barksdale
 
-👋 Hello! I'm passionate about leveraging data to drive impactful insights and solutions. My expertise spans across various technical domains, making me a versatile data professional ready to take on complex challenges.
 
 🔬 My core strengths include Statistical Modeling and Machine Learning Algorithms, where I excel in utilizing Python, R, and SQL to uncover hidden patterns and make data-driven decisions. I've honed my skills in crafting predictive and prescriptive models that provide actionable insights.
 
@@ -27,7 +25,6 @@ I am a Master's in Data Analytics | Concentration in Data Science and Big Data |
 
 🤝 Collaboration and effective teamwork are at the heart of my approach. I'm driven by challenges related to scalability, reliability, and performance, and I believe that these aspects are essential for achieving sustainable and impactful solutions.
 
-📩 I'm always open to connecting with fellow enthusiasts, recruiters, and professionals in the data science and machine learning space. Feel free to reach out to me at ramesh.he@northeastern.edu or rhemanth818@gmail.com. Let's collaborate and drive innovation together!
 <div> 
    <img src= "https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="PYTHON" alt="PYTHON" width="50" height="50"/>&nbsp;
    <img src= "https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="50" height="50"/>&nbsp;
