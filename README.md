@@ -5,23 +5,15 @@
 
 ## ✍️ ABOUT ME 💼
 
-I am a Master's in Data Analytics | Concentration in Data Science and Big Data | Student from 🏫 Northeastern University, Boston
-
-- I bring a track record of driving results as a dynamic Data Analyst and accomplished Machine Learning Intern. My expertise lies in constructing robust predictive models, dissecting extensive datasets, and effectively communicating with stakeholders. I have consistently demonstrated the ability to optimize complex business challenges, delivering tangible impact and providing crucial insights for decision-making. Proficient in Python, SQL, and Tableau, I excel in leveraging cutting-edge techniques in Machine Learning, Natural Language Processing (NLP), and Deep Learning to extract valuable insights and drive innovation
-- 🙋‍♂️Reach me at : LinkedIn [Hemanth Ramesh](https://www.linkedin.com/in/hemanthrm), 📞: 8573905572, 📧: ramesh.he@northeastern.edu
-
-## 🛠️My Skills 🔧
-
 "If we have data, let’s look at data. If all we have are opinions, let’s go with mine.” – Jim Barksdale
 
+I am a Master's in Data Analytics | Concentration in Data Science and Big Data | Student from 🏫 Northeastern University, Boston
 
-🔬 My core strengths include Statistical Modeling and Machine Learning Algorithms, where I excel in utilizing Python, R, and SQL to uncover hidden patterns and make data-driven decisions. I've honed my skills in crafting predictive and prescriptive models that provide actionable insights.
+- I bring a track record of driving results as a dynamic **Data Analyst** and accomplished **Machine Learning Intern**. My expertise lies in constructing robust **predictive models**, dissecting extensive datasets, and effectively communicating with stakeholders. I have consistently demonstrated the ability to optimize complex business challenges, delivering tangible impact and providing crucial insights for decision-making. Proficient in **Python, SQL, and Tableau**, I excel in leveraging cutting-edge techniques in **Machine Learning**, **Natural Language Processing (NLP)**,**Cloud Architectures** and **Deep Learning** to extract valuable insights and drive innovation
+- 
+- 🙋‍♂️Reach me at : LinkedIn [Hemanth Ramesh](https://www.linkedin.com/in/hemanthrm), 📞: 8573905572, 📧: **ramesh.he@northeastern.edu**
 
-☁️ When it comes to Cloud Architectures, my proficiency in AWS allows me to design robust and scalable solutions, ensuring optimal performance and resource management.
 
-🌐 As a firm believer in the power of Natural Language Processing (NLP) and Large Language Models (LLMs), I've dived into the intricacies of language understanding, enabling me to create innovative applications and tools that bridge the gap between human and machine communication.
-
-🚀 My expertise also extends to the realm of Deep Learning, specifically using TensorFlow and PyTorch. I've explored cutting-edge techniques to tackle complex tasks, from image recognition to natural language understanding, all while optimizing models for efficiency and accuracy.
 
 🤝 Collaboration and effective teamwork are at the heart of my approach. I'm driven by challenges related to scalability, reliability, and performance, and I believe that these aspects are essential for achieving sustainable and impactful solutions.
 
