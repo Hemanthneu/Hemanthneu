@@ -10,7 +10,7 @@
 I am a Master's in Data Analytics | Concentration in Data Science and Big Data | Student from 🏫 Northeastern University, Boston
 
 - I bring a track record of driving results as a dynamic **Data Analyst** and accomplished **Machine Learning Intern**. My expertise lies in constructing robust **predictive models**, dissecting extensive datasets, and effectively communicating with stakeholders. I have consistently demonstrated the ability to optimize complex business challenges, delivering tangible impact and providing crucial insights for decision-making. Proficient in **Python, SQL, and Tableau**, I excel in leveraging cutting-edge techniques in **Machine Learning**, **Natural Language Processing (NLP)**,**Cloud Architectures** and **Deep Learning** to extract valuable insights and drive innovation
-- 
+  
 - 🙋‍♂️Reach me at : LinkedIn [Hemanth Ramesh](https://www.linkedin.com/in/hemanthrm), 📞: 8573905572, 📧: **ramesh.he@northeastern.edu**
 
 
