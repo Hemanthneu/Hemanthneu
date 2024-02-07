@@ -7,7 +7,7 @@
 
 "If we have data, let’s look at data. If all we have are opinions, let’s go with mine.” – Jim Barksdale
 
-I am a Master's in Data Analytics | Concentration in Data Science and Big Data | Student from 🏫 Northeastern University, Boston
+I am a Master's in Data Analytics | Student from 🏫 Northeastern University, Boston
 
 "If we have data, let’s look at data. If all we have are opinions, let’s go with mine.” – Jim Barksdale
 
