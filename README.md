@@ -7,12 +7,12 @@
 
 "If we have data, let’s look at data. If all we have are opinions, let’s go with mine.” – Jim Barksdale
 
-I am a Master's in Data Analytics | Student from 🏫 Northeastern University, Boston
+Master's in Data Science | Student from 🏫 Northeastern University, Boston
 
-"If we have data, let’s look at data. If all we have are opinions, let’s go with mine.” – Jim Barksdale
+✅Expert in developing comprehensive data-centric applications, adept at managing intricate architectures and refining business challenges. Skilled in predictive analytics, data examination, and programming languages.
 
-✅I specialize in transforming extensive data into actionable insights, enabling data-driven decision-making for complex business challenges. With a proven track record, I excel in delivering tangible results and providing crucial insights to stakeholders
 ✅Driven by a strong interest in applying AI and innovative technologies for significant data analysis insights
+
 ✅Enthusiastic about MLOps, Language AI, and Neural Network Modeling, with a proven track record of driving outcomes using extensive data analytics and predictive modeling.
 
 🤝 My method is centered around collaboration and productive team dynamics. I am motivated by tackling issues in scalability, reliability, and performance, holding a firm conviction that these elements are crucial for developing lasting and influential solution
