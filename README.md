@@ -36,6 +36,7 @@ Master's in Data Science | Student from 🏫 Northeastern University, Boston
    <img src = "https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" title ="GCP" alt= "GCP" width="50" height ="50"/>&nbsp;
    <img src = "https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original-wordmark.svg" title ="Streamlit" alt= "Streamlit" width="50" height ="50"/>&nbsp;
    <img src = "https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title ="AWS" alt= "AWS" width="50" height ="50"/>&nbsp;
+   <img src = "https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title ="Test" alt= "Test" width="50" height ="50"/>&nbsp;
    <img src = "https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title ="Tensorflow" alt= "Tensorflow" width="60" height ="60"/>&nbsp;
 </div>
 
