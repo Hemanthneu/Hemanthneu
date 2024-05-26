@@ -25,13 +25,18 @@ Master's in Data Science | Student from 🏫 Northeastern University, Boston
 
 <div> 
    <img src= "https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="PYTHON" alt="PYTHON" width="50" height="50"/>&nbsp;
-   <img src= "https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="50" height="50"/>&nbsp;
    <img src= "https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="50" height="50"/>&nbsp;
-   <img src = "https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title ="Java" alt="Java" width="50" height ="50"/>&nbsp;
    <img src = "https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt= "Docker" width="50" height = "50"/>&nbsp;
    <img src = "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" title="Mysql" alt = "Mysql" width="50" height ="50"/>&nbsp;
    <img src = "https://github.com/devicons/devicon/blob/master/icons/neo4j/neo4j-original-wordmark.svg" title ="neo4j" alt= "neo4j" width="50" height ="50"/>&nbsp;
-   <img src = "https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title ="Tensorflow" alt= "Tensorflow" width="50" height ="50"/>&nbsp;
+   <img src = "https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original-wordmark.svg" title ="Airflow" alt= "Airflow" width="50" height ="50"/>&nbsp;
+   <img src = "https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title ="Azure" alt= "Azure" width="50" height ="50"/>&nbsp;
+   <img src = "https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title ="Gitlab" alt= "Gitlab" width="50" height ="50"/>&nbsp;
+   <img src = "https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title ="SKlearn" alt= "SKlearn" width="50" height ="50"/>&nbsp;
+   <img src = "https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" title ="GCP" alt= "GCP" width="50" height ="50"/>&nbsp;
+   <img src = "https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original-wordmark.svg" title ="Streamlit" alt= "Streamlit" width="50" height ="50"/>&nbsp;
+   <img src = "https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title ="AWS" alt= "AWS" width="50" height ="50"/>&nbsp;
+   <img src = "https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title ="Tensorflow" alt= "Tensorflow" width="60" height ="60"/>&nbsp;
    <img src = "https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title ="R" alt= "R" width ="50" height ="50"/>&nbsp
 </div>
 
