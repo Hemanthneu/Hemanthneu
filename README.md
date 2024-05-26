@@ -31,6 +31,7 @@ Master's in Data Science | Student from 🏫 Northeastern University, Boston
    <img src = "https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt= "Docker" width="50" height = "50"/>&nbsp;
    <img src = "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" title="Mysql" alt = "Mysql" width="50" height ="50"/>&nbsp;
    <img src = "https://github.com/devicons/devicon/blob/master/icons/neo4j/neo4j-original-wordmark.svg" title ="neo4j" alt= "neo4j" width="50" height ="50"/>&nbsp;
+   <img src = "https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title ="Tensorflow" alt= "Tensorflow" width="50" height ="50"/>&nbsp;
    <img src = "https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title ="R" alt= "R" width ="50" height ="50"/>&nbsp
 </div>
 
