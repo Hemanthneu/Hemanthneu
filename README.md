@@ -5,21 +5,30 @@
 
 ## ✍️ ABOUT ME 💼
 
-"If we have data, let’s look at data. If all we have are opinions, let’s go with mine.” – Jim Barksdale
+As a data scientist, I'm fueled by a passion for uncovering hidden patterns and connections in complex data. I believe that data has the power to transform businesses and industries, and I'm dedicated to helping organizations harness that power.
 
-Master's in Data Science | Student from 🏫 Northeastern University, Boston
+✅My Expertise
 
-✅Expert in developing comprehensive data-centric applications, adept at managing intricate architectures and refining business challenges. Skilled in predictive analytics, data examination, and programming languages.
+With a strong foundation in machine learning, AI, and data analytics, I've developed a unique ability to distill complex data into actionable recommendations that drive business growth and improvement. My expertise spans multiple industries, including healthcare, finance, and retail, and I'm always looking for new ways to apply my skills to drive business outcomes.
 
-✅Driven by a strong interest in applying AI and innovative technologies for significant data analysis insights
+◾My Approach
 
-✅Enthusiastic about MLOps, Language AI, and Neural Network Modeling, with a proven track record of driving outcomes using extensive data analytics and predictive modeling.
+I take a collaborative approach to data science, working closely with stakeholders to understand their needs and develop solutions that meet their objectives. I believe that data should be a catalyst for business growth, not just a reporting tool. My goal is to drive business outcomes, not just produce reports.
 
-🤝 My method is centered around collaboration and productive team dynamics. I am motivated by tackling issues in scalability, reliability, and performance, holding a firm conviction that these elements are crucial for developing lasting and influential solution
+📈What I'm Passionate About
 
-- 🙋‍♂️Reach me at : LinkedIn [Hemanth Ramesh](https://www.linkedin.com/in/hemanthrm), 📞: 8573905572, 📧: **ramesh.he@northeastern.edu**
+I'm excited about the potential of AI, machine learning, and deep learning to transform industries and drive business value. I'm always looking for new ways to apply these technologies to drive business success. My interests include:
+Large Language Modeling, Recommendation Systems, GPU Optimization, Knowledge Graphs, Transfer Learning, Representation Learning, Multi-modal Machine Learning, Reinforcement Learning, MLOps, Geometric Deep Learning, Graph Neural Networks
 
+Languages: Python, SQL
+Tools: AWS, Azure, Docker, Flask, Dataiku DSS, PySpark, Airflow, Tableau
+Frameworks: TensorFlow, PyTorch, Scikit-learn, MLflow, Langchain
 
+🤝Get in Touch
+
+LinkedIn: Hemanth Ramesh
+Phone: 8573905572
+Email: hemanthramesh.data@gmail.com
 
 🤝 Collaboration and effective teamwork are at the heart of my approach. I'm driven by challenges related to scalability, reliability, and performance, and I believe that these aspects are essential for achieving sustainable and impactful solutions.
 
