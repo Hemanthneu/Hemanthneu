@@ -1,5 +1,5 @@
 
-# 💥 Hi there, I'm Hemanth Ramesh 👋
+# Hi there, I'm Hemanth Ramesh 👋
 
 ![photo-1616763355548-1b606f439f86](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
 
