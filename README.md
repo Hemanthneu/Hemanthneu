@@ -1,9 +1,9 @@
 
-# Hi there, I'm Hemanth Ramesh 👋
-
-![photo-1616763355548-1b606f439f86](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
+## Hi there, I'm Hemanth Ramesh 👋
 
 ## Full-Stack Data Scientist | ML Engineer | Software Developer
+
+![photo-1616763355548-1b606f439f86](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
 
 ## Data Science Expertise
 As a seasoned data scientist, my expertise spans machine learning, AI, and advanced analytics, with a proven track record of developing models that grow business growth. I've successfully implemented large language models, recommendation systems, and multi-modal machine learning solutions across various industries, including finance, healthcare, and retail.
