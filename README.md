@@ -5,23 +5,24 @@
 
 ## ✍️ ABOUT ME 💼
 
-As a data scientist, I'm fueled by a passion for uncovering hidden patterns and connections in complex data. I believe that data has the power to transform businesses and industries, and I'm dedicated to helping organizations harness that power.
+##Full-Stack Data Scientist | ML Engineer | Software Developer
 
-✅My Expertise
+##Data Science Expertise
+As a seasoned data scientist, my expertise spans machine learning, AI, and advanced analytics, with a proven track record of developing models that grow business growth. I've successfully implemented large language models, recommendation systems, and multi-modal machine learning solutions across various industries, including finance, healthcare, and retail.
 
-With a strong foundation in machine learning, AI, and data analytics, I've developed a unique ability to distill complex data into actionable recommendations that drive business growth and improvement. My expertise spans multiple industries, including healthcare, finance, and retail, and I'm always looking for new ways to apply my skills to drive business outcomes.
+##Software Engineering & MLOps
+With experience in software engineering, I excel at building scalable data pipelines and ML systems. I'm well-versed in CI/CD practices, having implemented end-to-end MLOps workflows using tools like Docker, Kubernetes, and Jenkins. My proficiency in handling pull requests, code reviews, and maintaining high-quality codebases ensures smooth collaboration in fast-paced development environments. I've optimized cloud infrastructures on AWS and Azure, significantly reducing deployment times and operational costs.
 
-◾My Approach
-
-I take a collaborative approach to data science, working closely with stakeholders to understand their needs and develop solutions that meet their objectives. I believe that data should be a catalyst for business growth, not just a reporting tool. My goal is to drive business outcomes, not just produce reports.
+##Tech Stack & Collaboration
+Leveraging my full-stack capabilities, I've developed and deployed production-grade applications, integrating front-end visualizations with backend ML models. I love working in collaborative environments, effectively bridging the gap between technical and non-technical teams to deliver high-impact solutions.
 
 📈What I'm Passionate About
 
-I'm excited about the potential of AI, machine learning, and deep learning to transform industries and drive business value. I'm always looking for new ways to apply these technologies to drive business success. My interests include:
+I'm excited about the potential of AI, machine learning, and deep learning to transform industries and drive business value. My interests include:
 Large Language Modeling, Recommendation Systems, GPU Optimization, Knowledge Graphs, Transfer Learning, Representation Learning, Multi-modal Machine Learning, Reinforcement Learning, MLOps, Geometric Deep Learning, Graph Neural Networks
 
 Languages: Python, SQL
-Tools: AWS, Azure, Docker, Flask, Dataiku DSS, PySpark, Airflow, Tableau
+Tools: AWS, Azure, Docker, Flask, Dataiku DSS, Kubernetes, PySpark, Airflow, Tableau
 Frameworks: TensorFlow, PyTorch, Scikit-learn, MLflow, Langchain
 
 🤝Get in Touch
@@ -29,8 +30,6 @@ Frameworks: TensorFlow, PyTorch, Scikit-learn, MLflow, Langchain
 LinkedIn: Hemanth Ramesh
 Phone: 8573905572
 Email: hemanthramesh.data@gmail.com
-
-🤝 Collaboration and effective teamwork are at the heart of my approach. I'm driven by challenges related to scalability, reliability, and performance, and I believe that these aspects are essential for achieving sustainable and impactful solutions.
 
 <div> 
    <img src= "https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="PYTHON" alt="PYTHON" width="50" height="50"/>&nbsp;
