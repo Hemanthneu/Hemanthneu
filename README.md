@@ -3,8 +3,6 @@
 
 ![photo-1616763355548-1b606f439f86](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
 
-## ✍️ ABOUT ME 💼
-
 ## Full-Stack Data Scientist | ML Engineer | Software Developer
 
 ## Data Science Expertise
