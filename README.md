@@ -5,15 +5,15 @@
 
 ## ✍️ ABOUT ME 💼
 
-##Full-Stack Data Scientist | ML Engineer | Software Developer
+## Full-Stack Data Scientist | ML Engineer | Software Developer
 
-##Data Science Expertise
+## Data Science Expertise
 As a seasoned data scientist, my expertise spans machine learning, AI, and advanced analytics, with a proven track record of developing models that grow business growth. I've successfully implemented large language models, recommendation systems, and multi-modal machine learning solutions across various industries, including finance, healthcare, and retail.
 
-##Software Engineering & MLOps
+## Software Engineering & MLOps
 With experience in software engineering, I excel at building scalable data pipelines and ML systems. I'm well-versed in CI/CD practices, having implemented end-to-end MLOps workflows using tools like Docker, Kubernetes, and Jenkins. My proficiency in handling pull requests, code reviews, and maintaining high-quality codebases ensures smooth collaboration in fast-paced development environments. I've optimized cloud infrastructures on AWS and Azure, significantly reducing deployment times and operational costs.
 
-##Tech Stack & Collaboration
+## Tech Stack & Collaboration
 Leveraging my full-stack capabilities, I've developed and deployed production-grade applications, integrating front-end visualizations with backend ML models. I love working in collaborative environments, effectively bridging the gap between technical and non-technical teams to deliver high-impact solutions.
 
 📈What I'm Passionate About
