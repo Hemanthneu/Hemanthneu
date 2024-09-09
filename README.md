@@ -23,6 +23,7 @@ Large Language Modeling, Recommendation Systems, GPU Optimization, Knowledge Gra
 
 Languages: Python, SQL
 Tools: AWS, Azure, Docker, Flask, Dataiku DSS, Kubernetes, PySpark, Airflow, Tableau
+
 Frameworks: TensorFlow, PyTorch, Scikit-learn, MLflow, Langchain
 
 🤝Get in Touch
