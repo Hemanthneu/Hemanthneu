@@ -6,7 +6,7 @@
 ![photo-1616763355548-1b606f439f86](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
 
 ## Data Science Expertise
-As a seasoned data scientist, my expertise spans machine learning, AI, and advanced analytics, with a proven track record of developing models that grow business growth. I've successfully implemented large language models, recommendation systems, and multi-modal machine learning solutions across various industries, including finance, healthcare, and retail.
+As a seasoned data scientist, my expertise spans machine learning, AI, and advanced analytics, with a proven track record of developing models that grow business growth. I've successfully implemented machine learning solutions across various industries, including finance, technology and manufacturing.
 
 ## Software Engineering & MLOps
 With experience in software engineering, I excel at building scalable data pipelines and ML systems. I'm well-versed in CI/CD practices, having implemented end-to-end MLOps workflows using tools like Docker, Kubernetes, and Jenkins. My proficiency in handling pull requests, code reviews, and maintaining high-quality codebases ensures smooth collaboration in fast-paced development environments. I've optimized cloud infrastructures on AWS and Azure, significantly reducing deployment times and operational costs.
@@ -17,12 +17,7 @@ Leveraging my full-stack capabilities, I've developed and deployed production-gr
 📈What I'm Passionate About
 
 I'm excited about the potential of AI, machine learning, and deep learning to transform industries and drive business value. My interests include:
-Large Language Modeling, Recommendation Systems, GPU Optimization, Knowledge Graphs, Transfer Learning, Representation Learning, Multi-modal Machine Learning, Reinforcement Learning, MLOps, Geometric Deep Learning, Graph Neural Networks
-
-Languages: Python, SQL
-Tools: AWS, Azure, Docker, Flask, Dataiku DSS, Kubernetes, PySpark, Airflow, Tableau
-
-Frameworks: TensorFlow, PyTorch, Scikit-learn, MLflow, Langchain
+Large Language Modeling, Recommendation Systems, GPU Optimization, Knowledge Graphs, Transfer Learning, Representation Learning, Multi-modal Machine Learning, Reinforcement Learning, MLOps, NLP.
 
 🤝Get in Touch
 
