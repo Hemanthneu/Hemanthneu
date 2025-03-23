@@ -1,23 +1,31 @@
 
 ## Hi there, I'm Hemanth Ramesh 👋
 
-## Full-Stack Data Scientist | ML Engineer | Software Developer
+## Full-Stack Data Scientist | Software Developer | Analytics Engineer
 
 ![photo-1616763355548-1b606f439f86](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
 
-## Data Science Expertise
-As a seasoned data scientist, my expertise spans machine learning, AI, and advanced analytics, with a proven track record of developing models that grow business growth. I've successfully implemented machine learning solutions across various industries, including finance, technology and manufacturing.
+## Data Science in Financial Risk & Compliance
+With hands-on experience in credit risk modeling, fraud detection, and AML analytics, I specialize in using machine learning and AI to solve high-impact problems in financial services. My work spans default prediction, transaction monitoring, and behavioral risk segmentation.
 
-## Software Engineering & MLOps
-With experience in software engineering, I excel at building scalable data pipelines and ML systems. I'm well-versed in CI/CD practices, having implemented end-to-end MLOps workflows using tools like Docker, Kubernetes, and Jenkins. My proficiency in handling pull requests, code reviews, and maintaining high-quality codebases ensures smooth collaboration in fast-paced development environments. I've optimized cloud infrastructures on AWS and Azure, significantly reducing deployment times and operational costs.
 
-## Tech Stack & Collaboration
-Leveraging my full-stack capabilities, I've developed and deployed production-grade applications, integrating front-end visualizations with backend ML models. I love working in collaborative environments, effectively bridging the gap between technical and non-technical teams to deliver high-impact solutions.
+## ML Engineering & MLOps for Regulated Pipelines
+Experienced in building production-ready ML pipelines that meet the audit and traceability standards expected in finance. I've deployed end-to-end workflows using tools like Airflow, Docker, and Jenkins, ensuring model transparency, version control, and real-time performance tracking. On the cloud side, I've optimized workflows across AWS and Azure, reducing latency and enabling scalable, cost-efficient deployment of fraud and credit models.
 
-📈What I'm Passionate About
 
-I'm excited about the potential of AI, machine learning, and deep learning to transform industries and drive business value. My interests include:
-Large Language Modeling, Recommendation Systems, GPU Optimization, Knowledge Graphs, Transfer Learning, Representation Learning, Multi-modal Machine Learning, Reinforcement Learning, MLOps, NLP.
+## Bridging Analytics & Stakeholders
+Having worked closely with risk, compliance, and internal audit teams, I focus on turning complex models into clear, actionable insights. From developing dashboards that track suspicious activity to delivering explainable AI outputs to auditors and executives, my work sits at the intersection of technical depth and business value.
+
+📈Areas of Passion in Finance + AI
+
+I'm deeply interested in how advanced techniques like LLMs, NLP, and Graph ML can transform financial crime detection and risk intelligence. Some of my focus areas include:
+
+- Anomaly Detection & AML Pattern Recognition
+- NLP for Transaction Monitoring & SAR Narrative Generation
+- LLMs for Automating Risk Summaries and Audit Notes
+- Graph-Based Modeling for Entity Resolution & Relationship Risk
+- Credit Risk Scoring using Explainable AI (XAI)
+- AutoML & MLOps for Model Governance in Finance
 
 🤝Get in Touch
 
